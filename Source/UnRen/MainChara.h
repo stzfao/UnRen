@@ -7,7 +7,7 @@
 #include "MainChara.generated.h"
 
 UCLASS()
-class FIRSTPROJECT_API AMainChara : public ACharacter
+class UNREN_API AMainChara : public ACharacter
 {
 	GENERATED_BODY()
 
